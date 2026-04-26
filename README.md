@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'STZhongsong';
+  src: url('./fonts/STZhongsong.ttf') format('truetype');
+  font-display: swap;
+}
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
